@@ -1,0 +1,508 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		96CE1F2D17ED1D9600080C43 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 96CE1F2717ED1D9600080C43 /* 29.png */; };
+		96CE1F2E17ED1D9600080C43 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = 96CE1F2817ED1D9600080C43 /* 57.png */; };
+		96CE1F2F17ED1D9600080C43 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 96CE1F2917ED1D9600080C43 /* 58.png */; };
+		96CE1F3017ED1D9600080C43 /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 96CE1F2A17ED1D9600080C43 /* 80.png */; };
+		96CE1F3117ED1D9600080C43 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = 96CE1F2B17ED1D9600080C43 /* 114.png */; };
+		96CE1F3217ED1D9600080C43 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 96CE1F2C17ED1D9600080C43 /* 120.png */; };
+		96EDBE0D17C9E566006F6C97 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EDBE0C17C9E566006F6C97 /* UIKit.framework */; };
+		96EDBE0F17C9E566006F6C97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EDBE0E17C9E566006F6C97 /* Foundation.framework */; };
+		96EDBE1117C9E566006F6C97 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EDBE1017C9E566006F6C97 /* CoreGraphics.framework */; };
+		96EDBE1717C9E567006F6C97 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96EDBE1517C9E567006F6C97 /* InfoPlist.strings */; };
+		96EDBE1917C9E567006F6C97 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 96EDBE1817C9E567006F6C97 /* main.m */; };
+		96EDBE1D17C9E567006F6C97 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 96EDBE1C17C9E567006F6C97 /* AppDelegate.m */; };
+		96EDBE1F17C9E567006F6C97 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 96EDBE1E17C9E567006F6C97 /* Default.png */; };
+		96EDBE2117C9E567006F6C97 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 96EDBE2017C9E567006F6C97 /* Default@2x.png */; };
+		96EDBE2317C9E567006F6C97 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 96EDBE2217C9E567006F6C97 /* Default-568h@2x.png */; };
+		96EDBE2617C9E567006F6C97 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96EDBE2417C9E567006F6C97 /* MainStoryboard_iPhone.storyboard */; };
+		96EDBE2C17C9E567006F6C97 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96EDBE2B17C9E567006F6C97 /* FirstViewController.m */; };
+		96EDBE3F17C9E567006F6C97 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EDBE3E17C9E567006F6C97 /* SenTestingKit.framework */; };
+		96EDBE4017C9E567006F6C97 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EDBE0C17C9E566006F6C97 /* UIKit.framework */; };
+		96EDBE4117C9E567006F6C97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EDBE0E17C9E566006F6C97 /* Foundation.framework */; };
+		96EDBE4917C9E567006F6C97 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96EDBE4717C9E567006F6C97 /* InfoPlist.strings */; };
+		96EDBE4C17C9E567006F6C97 /* QAS_Drug_CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96EDBE4B17C9E567006F6C97 /* QAS_Drug_CalculatorTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		96EDBE4217C9E567006F6C97 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 96EDBE0117C9E566006F6C97 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 96EDBE0817C9E566006F6C97;
+			remoteInfo = "QAS Drug Calculator";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		96CE1F2717ED1D9600080C43 /* 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29.png; sourceTree = "<group>"; };
+		96CE1F2817ED1D9600080C43 /* 57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57.png; sourceTree = "<group>"; };
+		96CE1F2917ED1D9600080C43 /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
+		96CE1F2A17ED1D9600080C43 /* 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80.png; sourceTree = "<group>"; };
+		96CE1F2B17ED1D9600080C43 /* 114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.png; sourceTree = "<group>"; };
+		96CE1F2C17ED1D9600080C43 /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		96EDBE0917C9E566006F6C97 /* DrugCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrugCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		96EDBE0C17C9E566006F6C97 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		96EDBE0E17C9E566006F6C97 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		96EDBE1017C9E566006F6C97 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		96EDBE1417C9E567006F6C97 /* QAS Drug Calculator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QAS Drug Calculator-Info.plist"; sourceTree = "<group>"; };
+		96EDBE1617C9E567006F6C97 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		96EDBE1817C9E567006F6C97 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		96EDBE1A17C9E567006F6C97 /* QAS Drug Calculator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QAS Drug Calculator-Prefix.pch"; sourceTree = "<group>"; };
+		96EDBE1B17C9E567006F6C97 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		96EDBE1C17C9E567006F6C97 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		96EDBE1E17C9E567006F6C97 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		96EDBE2017C9E567006F6C97 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		96EDBE2217C9E567006F6C97 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		96EDBE2517C9E567006F6C97 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		96EDBE2A17C9E567006F6C97 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		96EDBE2B17C9E567006F6C97 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		96EDBE3D17C9E567006F6C97 /* QAS Drug CalculatorTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "QAS Drug CalculatorTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		96EDBE3E17C9E567006F6C97 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		96EDBE4617C9E567006F6C97 /* QAS Drug CalculatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QAS Drug CalculatorTests-Info.plist"; sourceTree = "<group>"; };
+		96EDBE4817C9E567006F6C97 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		96EDBE4A17C9E567006F6C97 /* QAS_Drug_CalculatorTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QAS_Drug_CalculatorTests.h; sourceTree = "<group>"; };
+		96EDBE4B17C9E567006F6C97 /* QAS_Drug_CalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QAS_Drug_CalculatorTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		96EDBE0617C9E566006F6C97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96EDBE0D17C9E566006F6C97 /* UIKit.framework in Frameworks */,
+				96EDBE0F17C9E566006F6C97 /* Foundation.framework in Frameworks */,
+				96EDBE1117C9E566006F6C97 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96EDBE3917C9E567006F6C97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96EDBE3F17C9E567006F6C97 /* SenTestingKit.framework in Frameworks */,
+				96EDBE4017C9E567006F6C97 /* UIKit.framework in Frameworks */,
+				96EDBE4117C9E567006F6C97 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		96EDBE0017C9E566006F6C97 = {
+			isa = PBXGroup;
+			children = (
+				96EDBE1217C9E566006F6C97 /* QAS Drug Calculator */,
+				96EDBE4417C9E567006F6C97 /* QAS Drug CalculatorTests */,
+				96EDBE0B17C9E566006F6C97 /* Frameworks */,
+				96EDBE0A17C9E566006F6C97 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		96EDBE0A17C9E566006F6C97 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				96EDBE0917C9E566006F6C97 /* DrugCalculator.app */,
+				96EDBE3D17C9E567006F6C97 /* QAS Drug CalculatorTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		96EDBE0B17C9E566006F6C97 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				96EDBE0C17C9E566006F6C97 /* UIKit.framework */,
+				96EDBE0E17C9E566006F6C97 /* Foundation.framework */,
+				96EDBE1017C9E566006F6C97 /* CoreGraphics.framework */,
+				96EDBE3E17C9E567006F6C97 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		96EDBE1217C9E566006F6C97 /* QAS Drug Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				96CE1F2717ED1D9600080C43 /* 29.png */,
+				96CE1F2817ED1D9600080C43 /* 57.png */,
+				96CE1F2917ED1D9600080C43 /* 58.png */,
+				96CE1F2A17ED1D9600080C43 /* 80.png */,
+				96CE1F2B17ED1D9600080C43 /* 114.png */,
+				96CE1F2C17ED1D9600080C43 /* 120.png */,
+				96EDBE1B17C9E567006F6C97 /* AppDelegate.h */,
+				96EDBE1C17C9E567006F6C97 /* AppDelegate.m */,
+				96EDBE2417C9E567006F6C97 /* MainStoryboard_iPhone.storyboard */,
+				96EDBE2A17C9E567006F6C97 /* FirstViewController.h */,
+				96EDBE2B17C9E567006F6C97 /* FirstViewController.m */,
+				96EDBE1317C9E567006F6C97 /* Supporting Files */,
+			);
+			path = "QAS Drug Calculator";
+			sourceTree = "<group>";
+		};
+		96EDBE1317C9E567006F6C97 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				96EDBE1417C9E567006F6C97 /* QAS Drug Calculator-Info.plist */,
+				96EDBE1517C9E567006F6C97 /* InfoPlist.strings */,
+				96EDBE1817C9E567006F6C97 /* main.m */,
+				96EDBE1A17C9E567006F6C97 /* QAS Drug Calculator-Prefix.pch */,
+				96EDBE1E17C9E567006F6C97 /* Default.png */,
+				96EDBE2017C9E567006F6C97 /* Default@2x.png */,
+				96EDBE2217C9E567006F6C97 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		96EDBE4417C9E567006F6C97 /* QAS Drug CalculatorTests */ = {
+			isa = PBXGroup;
+			children = (
+				96EDBE4A17C9E567006F6C97 /* QAS_Drug_CalculatorTests.h */,
+				96EDBE4B17C9E567006F6C97 /* QAS_Drug_CalculatorTests.m */,
+				96EDBE4517C9E567006F6C97 /* Supporting Files */,
+			);
+			path = "QAS Drug CalculatorTests";
+			sourceTree = "<group>";
+		};
+		96EDBE4517C9E567006F6C97 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				96EDBE4617C9E567006F6C97 /* QAS Drug CalculatorTests-Info.plist */,
+				96EDBE4717C9E567006F6C97 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		96EDBE0817C9E566006F6C97 /* QAS Drug Calculator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 96EDBE4F17C9E567006F6C97 /* Build configuration list for PBXNativeTarget "QAS Drug Calculator" */;
+			buildPhases = (
+				96EDBE0517C9E566006F6C97 /* Sources */,
+				96EDBE0617C9E566006F6C97 /* Frameworks */,
+				96EDBE0717C9E566006F6C97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "QAS Drug Calculator";
+			productName = "QAS Drug Calculator";
+			productReference = 96EDBE0917C9E566006F6C97 /* DrugCalculator.app */;
+			productType = "com.apple.product-type.application";
+		};
+		96EDBE3C17C9E567006F6C97 /* QAS Drug CalculatorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 96EDBE5217C9E567006F6C97 /* Build configuration list for PBXNativeTarget "QAS Drug CalculatorTests" */;
+			buildPhases = (
+				96EDBE3817C9E567006F6C97 /* Sources */,
+				96EDBE3917C9E567006F6C97 /* Frameworks */,
+				96EDBE3A17C9E567006F6C97 /* Resources */,
+				96EDBE3B17C9E567006F6C97 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				96EDBE4317C9E567006F6C97 /* PBXTargetDependency */,
+			);
+			name = "QAS Drug CalculatorTests";
+			productName = "QAS Drug CalculatorTests";
+			productReference = 96EDBE3D17C9E567006F6C97 /* QAS Drug CalculatorTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		96EDBE0117C9E566006F6C97 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = kurtlane.com.au;
+			};
+			buildConfigurationList = 96EDBE0417C9E566006F6C97 /* Build configuration list for PBXProject "QAS Drug Calculator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 96EDBE0017C9E566006F6C97;
+			productRefGroup = 96EDBE0A17C9E566006F6C97 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				96EDBE0817C9E566006F6C97 /* QAS Drug Calculator */,
+				96EDBE3C17C9E567006F6C97 /* QAS Drug CalculatorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		96EDBE0717C9E566006F6C97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96CE1F3117ED1D9600080C43 /* 114.png in Resources */,
+				96CE1F3217ED1D9600080C43 /* 120.png in Resources */,
+				96CE1F2D17ED1D9600080C43 /* 29.png in Resources */,
+				96EDBE1717C9E567006F6C97 /* InfoPlist.strings in Resources */,
+				96EDBE1F17C9E567006F6C97 /* Default.png in Resources */,
+				96EDBE2117C9E567006F6C97 /* Default@2x.png in Resources */,
+				96CE1F2E17ED1D9600080C43 /* 57.png in Resources */,
+				96EDBE2317C9E567006F6C97 /* Default-568h@2x.png in Resources */,
+				96CE1F3017ED1D9600080C43 /* 80.png in Resources */,
+				96CE1F2F17ED1D9600080C43 /* 58.png in Resources */,
+				96EDBE2617C9E567006F6C97 /* MainStoryboard_iPhone.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96EDBE3A17C9E567006F6C97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96EDBE4917C9E567006F6C97 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		96EDBE3B17C9E567006F6C97 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		96EDBE0517C9E566006F6C97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96EDBE1917C9E567006F6C97 /* main.m in Sources */,
+				96EDBE1D17C9E567006F6C97 /* AppDelegate.m in Sources */,
+				96EDBE2C17C9E567006F6C97 /* FirstViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96EDBE3817C9E567006F6C97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96EDBE4C17C9E567006F6C97 /* QAS_Drug_CalculatorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		96EDBE4317C9E567006F6C97 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 96EDBE0817C9E566006F6C97 /* QAS Drug Calculator */;
+			targetProxy = 96EDBE4217C9E567006F6C97 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		96EDBE1517C9E567006F6C97 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				96EDBE1617C9E567006F6C97 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		96EDBE2417C9E567006F6C97 /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				96EDBE2517C9E567006F6C97 /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		96EDBE4717C9E567006F6C97 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				96EDBE4817C9E567006F6C97 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		96EDBE4D17C9E567006F6C97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "F7CD884D-FAFB-4743-A9AD-5A96C7B409C3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F7CD884D-FAFB-4743-A9AD-5A96C7B409C3";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		96EDBE4E17C9E567006F6C97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "F7CD884D-FAFB-4743-A9AD-5A96C7B409C3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F7CD884D-FAFB-4743-A9AD-5A96C7B409C3";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		96EDBE5017C9E567006F6C97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Kurt Lane";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QAS Drug Calculator/QAS Drug Calculator-Prefix.pch";
+				INFOPLIST_FILE = "QAS Drug Calculator/QAS Drug Calculator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = DrugCalculator;
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		96EDBE5117C9E567006F6C97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Kurt Lane";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QAS Drug Calculator/QAS Drug Calculator-Prefix.pch";
+				INFOPLIST_FILE = "QAS Drug Calculator/QAS Drug Calculator-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = DrugCalculator;
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		96EDBE5317C9E567006F6C97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/QAS Drug Calculator.app/QAS Drug Calculator";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QAS Drug Calculator/QAS Drug Calculator-Prefix.pch";
+				INFOPLIST_FILE = "QAS Drug CalculatorTests/QAS Drug CalculatorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		96EDBE5417C9E567006F6C97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/QAS Drug Calculator.app/QAS Drug Calculator";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QAS Drug Calculator/QAS Drug Calculator-Prefix.pch";
+				INFOPLIST_FILE = "QAS Drug CalculatorTests/QAS Drug CalculatorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		96EDBE0417C9E566006F6C97 /* Build configuration list for PBXProject "QAS Drug Calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96EDBE4D17C9E567006F6C97 /* Debug */,
+				96EDBE4E17C9E567006F6C97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		96EDBE4F17C9E567006F6C97 /* Build configuration list for PBXNativeTarget "QAS Drug Calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96EDBE5017C9E567006F6C97 /* Debug */,
+				96EDBE5117C9E567006F6C97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		96EDBE5217C9E567006F6C97 /* Build configuration list for PBXNativeTarget "QAS Drug CalculatorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96EDBE5317C9E567006F6C97 /* Debug */,
+				96EDBE5417C9E567006F6C97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 96EDBE0117C9E566006F6C97 /* Project object */;
+}
