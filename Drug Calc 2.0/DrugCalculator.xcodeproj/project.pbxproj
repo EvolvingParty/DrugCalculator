@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		455A074F1C710E7700696EE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455A074E1C710E7700696EE3 /* AppDelegate.swift */; };
+		455A07511C710E7700696EE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455A07501C710E7700696EE3 /* ViewController.swift */; };
+		455A07541C710E7800696EE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 455A07521C710E7800696EE3 /* Main.storyboard */; };
+		455A07561C710E7800696EE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 455A07551C710E7800696EE3 /* Assets.xcassets */; };
+		455A07591C710E7800696EE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 455A07571C710E7800696EE3 /* LaunchScreen.storyboard */; };
+		455A07611C710F8700696EE3 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 455A07601C710F8700696EE3 /* 1024.png */; };
+		455A07631C71262300696EE3 /* launch.png in Resources */ = {isa = PBXBuildFile; fileRef = 455A07621C71262300696EE3 /* launch.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		455A074B1C710E7700696EE3 /* DrugCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrugCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		455A074E1C710E7700696EE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		455A07501C710E7700696EE3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		455A07531C710E7800696EE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		455A07551C710E7800696EE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		455A07581C710E7800696EE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		455A075A1C710E7800696EE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		455A07601C710F8700696EE3 /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
+		455A07621C71262300696EE3 /* launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launch.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		455A07481C710E7700696EE3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		455A07421C710E7600696EE3 = {
+			isa = PBXGroup;
+			children = (
+				455A07601C710F8700696EE3 /* 1024.png */,
+				455A07621C71262300696EE3 /* launch.png */,
+				455A074D1C710E7700696EE3 /* DrugCalculator */,
+				455A074C1C710E7700696EE3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		455A074C1C710E7700696EE3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				455A074B1C710E7700696EE3 /* DrugCalculator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		455A074D1C710E7700696EE3 /* DrugCalculator */ = {
+			isa = PBXGroup;
+			children = (
+				455A074E1C710E7700696EE3 /* AppDelegate.swift */,
+				455A07501C710E7700696EE3 /* ViewController.swift */,
+				455A07521C710E7800696EE3 /* Main.storyboard */,
+				455A07551C710E7800696EE3 /* Assets.xcassets */,
+				455A07571C710E7800696EE3 /* LaunchScreen.storyboard */,
+				455A075A1C710E7800696EE3 /* Info.plist */,
+			);
+			path = DrugCalculator;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		455A074A1C710E7700696EE3 /* DrugCalculator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 455A075D1C710E7800696EE3 /* Build configuration list for PBXNativeTarget "DrugCalculator" */;
+			buildPhases = (
+				455A07471C710E7700696EE3 /* Sources */,
+				455A07481C710E7700696EE3 /* Frameworks */,
+				455A07491C710E7700696EE3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DrugCalculator;
+			productName = DrugCalculator;
+			productReference = 455A074B1C710E7700696EE3 /* DrugCalculator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		455A07431C710E7600696EE3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = Tupplefly;
+				TargetAttributes = {
+					455A074A1C710E7700696EE3 = {
+						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = U526XBCKA2;
+					};
+				};
+			};
+			buildConfigurationList = 455A07461C710E7600696EE3 /* Build configuration list for PBXProject "DrugCalculator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 455A07421C710E7600696EE3;
+			productRefGroup = 455A074C1C710E7700696EE3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				455A074A1C710E7700696EE3 /* DrugCalculator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		455A07491C710E7700696EE3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				455A07591C710E7800696EE3 /* LaunchScreen.storyboard in Resources */,
+				455A07631C71262300696EE3 /* launch.png in Resources */,
+				455A07561C710E7800696EE3 /* Assets.xcassets in Resources */,
+				455A07611C710F8700696EE3 /* 1024.png in Resources */,
+				455A07541C710E7800696EE3 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		455A07471C710E7700696EE3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				455A07511C710E7700696EE3 /* ViewController.swift in Sources */,
+				455A074F1C710E7700696EE3 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		455A07521C710E7800696EE3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				455A07531C710E7800696EE3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		455A07571C710E7800696EE3 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				455A07581C710E7800696EE3 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		455A075B1C710E7800696EE3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		455A075C1C710E7800696EE3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		455A075E1C710E7800696EE3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = DrugCalculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = au.com.kurtlane.DrugCalculator;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		455A075F1C710E7800696EE3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = DrugCalculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = au.com.kurtlane.DrugCalculator;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		455A07461C710E7600696EE3 /* Build configuration list for PBXProject "DrugCalculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				455A075B1C710E7800696EE3 /* Debug */,
+				455A075C1C710E7800696EE3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		455A075D1C710E7800696EE3 /* Build configuration list for PBXNativeTarget "DrugCalculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				455A075E1C710E7800696EE3 /* Debug */,
+				455A075F1C710E7800696EE3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 455A07431C710E7600696EE3 /* Project object */;
+}
